@@ -1,6 +1,7 @@
-##CURRENTLY BUILDING THE WEBSITE
 
-# Getting Started with Create React App
+# CURRENTLY BUILDING THE WEBSITE (incomplete right now)
+
+#Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
