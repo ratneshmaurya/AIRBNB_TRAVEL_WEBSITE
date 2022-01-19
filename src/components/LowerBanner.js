@@ -2,6 +2,7 @@ import React from 'react'
 
 const LowerBanner = () => {
     return (
+        
         <div>
            <div className='relative bg-lowerbanner bg-center bg-cover h-screen  drop-shadow-lg'>
                 <div className='absolute top-20 w-full p-5 md:p-10'>
