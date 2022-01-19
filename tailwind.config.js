@@ -19,11 +19,15 @@ module.exports = {
 
       backgroundImage: theme => ({
         'homebanner': "url('https://images.unsplash.com/photo-1565001057204-270ce1077ae7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80')",
+
+        'lowerbanner':"url('https://images.unsplash.com/photo-1490130782613-03a06df0c0a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80')",
       }),
 
       height: theme => ({
         "screen/2": "50vh",
         "required":"470px",
+        "screen-60":"calc(100vh*6/10)",
+        "screen-70":"calc(100vh*7/10)",
         "screen-80":"calc(100vh*8/10)",
       }),
 
