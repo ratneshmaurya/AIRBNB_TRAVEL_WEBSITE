@@ -40,6 +40,7 @@ const Footer = () => {
                 </div>   
             </div>
 
+            
             <div className='bottom-0 mx-auto'>
                 <h1 className='w-fit mx-auto text-xs font-Nunito cursor-pointer'>Made with ❤️,by RATNESH MAURYA</h1>
             </div>
