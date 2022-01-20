@@ -1,5 +1,6 @@
 
-# CURRENTLY BUILDING THE WEBSITE (incomplete right now)
+# Airbnb clone beginner (mainly the frontend parts)
+Hope u will like it-----------
 
 #Getting Started with Create React App
 
