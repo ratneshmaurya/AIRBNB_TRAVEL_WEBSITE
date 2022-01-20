@@ -10,7 +10,7 @@ const LowerBanner = () => {
                     <h1 className='text-white text-5xl md:text-6xl lg:text-7xl font-Nunito font-bold'>about travelling ?</h1>
                 </div>
                 <div className='absolute bottom-20 p-5 md:p-10'>
-                    <button className='bg-red-400 text-white p-1 pl-3 pr-3 rounded-xl hover:bg-white hover:text-black text-md md:text-xl font-Nunito font-bold'>Ask Us</button>
+                    <button className='bg-white text-black p-1 pl-3 pr-3 rounded-xl hover:text-red-400 text-md md:text-xl font-Nunito font-bold'>Ask Us</button>
                 </div>
                 <div className="absolute w-full h-28 bg-gradient-to-t from-black to-transparent bottom-0 z-20"/>
            </div>

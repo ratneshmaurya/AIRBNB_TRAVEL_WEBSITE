@@ -71,9 +71,6 @@ const Home = () => {
 
             {/* ------------lower image banner --------------- */}
             <LowerBanner/>
-
-            {/* -----------footer section---------------------- */}
-            <Footer/>
         </div>
     )
 }
