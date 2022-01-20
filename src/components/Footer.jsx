@@ -7,7 +7,7 @@ import { IconButton } from '@mui/material';
 
 const Footer = () => {
     return (
-        <div className=' p-10 md:p-20 bg-gray-100 mt-10'>
+        <div className='p-10 md:p-20 bg-gray-100 mt-10'>
             
             {/* ---------the upper section containing support and about section---------- */}
             <div className='flex flex-col md:flex-row md:justify-around font-Nunito mb-8'>
@@ -38,6 +38,10 @@ const Footer = () => {
                     <IconButton><TwitterIcon/></IconButton>
                     <IconButton><InstagramIcon/></IconButton>
                 </div>   
+            </div>
+
+            <div className='bottom-0 mx-auto'>
+                <h1 className='w-fit mx-auto text-xs font-Nunito cursor-pointer'>Made with ❤️,by RATNESH MAURYA</h1>
             </div>
 
         </div>
