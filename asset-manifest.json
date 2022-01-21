@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AIRBNB_TRAVEL_WEBSITE/static/css/main.556045cb.css",
-    "main.js": "/AIRBNB_TRAVEL_WEBSITE/static/js/main.81fd880f.js",
+    "main.js": "/AIRBNB_TRAVEL_WEBSITE/static/js/main.49a5056b.js",
     "index.html": "/AIRBNB_TRAVEL_WEBSITE/index.html",
     "main.556045cb.css.map": "/AIRBNB_TRAVEL_WEBSITE/static/css/main.556045cb.css.map",
-    "main.81fd880f.js.map": "/AIRBNB_TRAVEL_WEBSITE/static/js/main.81fd880f.js.map"
+    "main.49a5056b.js.map": "/AIRBNB_TRAVEL_WEBSITE/static/js/main.49a5056b.js.map"
   },
   "entrypoints": [
     "static/css/main.556045cb.css",
-    "static/js/main.81fd880f.js"
+    "static/js/main.49a5056b.js"
   ]
 }
