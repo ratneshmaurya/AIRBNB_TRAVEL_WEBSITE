@@ -11,10 +11,12 @@ const App = () => {
   return (
     <div className='m-0'>
 
+      {/* --------also added the github deployment home page, becoa on github pages the home page url is different--------- */}
       <Router>
         <Header/>
         <Routes>
           <Route exact path="/" element={<Home/>}/>
+          <Route exact path="/AIRBNB_TRAVEL_WEBSITE" element={<Home/>}/> 
           <Route exact path="/search" element={<SearchPage/>}/>
         </Routes>
         <Footer/>
